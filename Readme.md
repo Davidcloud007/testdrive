@@ -1,4 +1,4 @@
 dsgteegr
 vjcytduigkvuyf
-![alt text](image.png)
+![alt text](./images/image.png)
 g
